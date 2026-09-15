@@ -30,6 +30,7 @@ Puis ouvrez l’URL suivante dans le navigateur :
 
 ```text
 http://localhost:3000
+http://169.254.35.223:3000
 ```
 
 ### Build de production
